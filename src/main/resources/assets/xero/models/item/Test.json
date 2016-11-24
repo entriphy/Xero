@@ -1,0 +1,6 @@
+{
+  "parent":"xero:item/StandardItem",
+  "textures": {
+    "layer0":"xero:items/ItemTest"
+  }
+}
