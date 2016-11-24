@@ -2,8 +2,10 @@
   "modid": "xero",
   "name": "Xero",
   "description": "Some random mod put together by me. No questions.",
+  "version": "0.1",
   "mcversion": "${mcversion}",
   "logoFile": "assets/xero/textures/logo.png",
+  "url": "https://evilarceus.github.io/Xero",
   "updateJSON": "",
   "authorList": ["evilarceus"],
   "credits": "evilarceus: Lead developer"
