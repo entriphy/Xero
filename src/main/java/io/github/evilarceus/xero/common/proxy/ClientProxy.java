@@ -1,5 +1,6 @@
 package io.github.evilarceus.xero.common.proxy;
 
+import io.github.evilarceus.xero.client.render.blocks.BlockRenderRegister;
 import io.github.evilarceus.xero.client.render.items.ItemRenderRegister;
 import net.minecraftforge.fml.common.event.FMLInitializationEvent;
 import net.minecraftforge.fml.common.event.FMLPostInitializationEvent;
@@ -18,6 +19,7 @@ public class ClientProxy extends CommonProxy {
     public void init(FMLInitializationEvent e) {
         super.init(e);
         ItemRenderRegister.registerItemRenderer();
+        BlockRenderRegister.registerBlockRenderer();
     }
 
     @Override
