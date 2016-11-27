@@ -1,3 +1,2 @@
 language: java
-./gradlew setupDecompWorkspace
-./gradlew build
+script: ./gradlew setupDecompWorkspace build
