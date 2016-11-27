@@ -2,6 +2,7 @@ package io.github.evilarceus.xero.init;
 
 import io.github.evilarceus.xero.common.block.*;
 import io.github.evilarceus.xero.common.block.BlockWrapper;
+import io.github.evilarceus.xero.common.block.colors.*;
 import net.minecraftforge.fml.common.registry.GameRegistry;
 
 public class InitBlocks {
