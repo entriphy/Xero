@@ -1,3 +1,4 @@
 language: java
 install: chmod +x gradlew
-script: GRADLE_OPTS=-Xmx2G ./gradlew setupDecompWorkspace build
+script: GRADLE_OPTS=-Xmx2G ./gradlew setupDecompWorkspace
+script: GRADLE_OPTS=-Xmx2G ./gradlew build
