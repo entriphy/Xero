@@ -10,6 +10,5 @@ public class BlockLightBlue extends BlockWrapper {
     public BlockLightBlue() {
         super();
         this.setUnlocalizedName("LightBlueBlock");
-        this.setCreativeTab(CreativeTabs.BUILDING_BLOCKS);
     }
 }

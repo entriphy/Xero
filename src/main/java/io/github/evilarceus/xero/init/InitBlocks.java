@@ -6,7 +6,7 @@ import io.github.evilarceus.xero.common.block.colors.*;
 import net.minecraftforge.fml.common.registry.GameRegistry;
 
 public class InitBlocks {
-
+    
     public static final BlockWrapper BlockTest = new BlockTest();
 
     public static final BlockWrapper BlockWhite = new BlockWhite();

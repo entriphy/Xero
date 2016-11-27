@@ -1,4 +1,5 @@
 item.xero:TestItem.name=Test Item
+
 tile.xero:TestBlock.name=Test Block
 tile.xero:WhiteBlock.name=White Block
 tile.xero:OrangeBlock.name=Orange Block
@@ -16,3 +17,5 @@ tile.xero:BrownBlock.name=Brown Block
 tile.xero:GreenBlock.name=Green Block
 tile.xero:RedBlock.name=Red Block
 tile.xero:BlackBlock.name=Black Block
+
+itemGroup.xero=Xero
